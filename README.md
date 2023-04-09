@@ -4,6 +4,8 @@ Hi, here is guoshijiang.
 
 [![Guoshijiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoshijiang&show_icons=true&theme=solarized-dark)](https://github.com/guoshijiang) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guoshijiang&count_private=true&show_icons=true&theme=tokyonight)
+
 1. Twitter: [@seek_web3](https://twitter.com/seek_web3)
 2. Telegram: @shijiangguo
 3. Discord: seekguo#0843
