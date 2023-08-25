@@ -1,6 +1,6 @@
 Hi, here is guoshijiang. 
 
-[问我社区](https://www.wenwoha.com/)|[链眼社区](https://chaineye.info/)|[币家社区](http://bj.gingernet.vip/)|[SavourLabs](https://github.com/savour-labs) 发起人
+Creater of [ask me community](https://www.wenwoha.com/)|[ChainEye Community](https://chaineye.info/)|[Bijia Community](http://bj.gingernet.vip/)|[SavourLabs](https://github.com/savour-labs) 
 
 [![Guoshijiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guoshijiang&show_icons=true&theme=solarized-dark)](https://github.com/guoshijiang) 
 
