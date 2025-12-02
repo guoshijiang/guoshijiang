@@ -4,7 +4,7 @@ Creater of [The Web3](https://theweb3dao.com/) And [DappLink](https://dapplink.x
 
 
 - Twitter: [@seek_web3](https://twitter.com/seek_web3)
-- Telegram: @shijiangguo
+- Telegram: @Seek_DappLink
 - Discord: seekguo#0843
 
 
